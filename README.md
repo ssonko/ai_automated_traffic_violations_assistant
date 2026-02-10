@@ -1,27 +1,77 @@
-#AVVA is an AI powered Agent/tool designed to streamline traffic ticket management for fleet vehicles.
-<img width="921" height="123" alt="image" src="https://github.com/user-attachments/assets/ead9e1f9-efe2-4095-b59a-15b20e2bad3b" />
+AVVA – AI-Powered Traffic Ticket Management for Fleet Vehicles
 
-Its workflow includes:
-  Ticket Extraction – AVVA processes images of traffic tickets and extracts key information, including:
-  license_plate
-  event_date
-  ticket_number
-  violation
-  fine_penalties
-  event_time
-  location_of_event
+AVVA is an AI-powered agent designed to streamline traffic ticket processing and driver attribution for fleet-operated vehicles. It automates ticket intake, validation, and driver identification—reducing administrative overhead while improving compliance and accuracy.
 
-#Driver Identification & Validation
-  Using the extracted license plate, time and date of event, AVVA checks the Uber database to identify the driver of the vehicle at the time of the violation. 
-  
-  It then cross references the employee database to retrieve the driver’s contact information and checks whether the driver is currently active (not terminated).
-  
-  Using the extracted license plate, time and date of event, AVVA checks the Uber database to identify the driver of the vehicle at the time of the violation. 
-  It then cross references the employee database to retrieve the driver’s contact information and checks whether the driver is currently active (not terminated).
+🚦 Overview
 
-#Business Benefits
-  Compliance & Risk Reduction: Ensures accurate reporting and reduces missed violations or fines.
-  Operational Efficiency: Minimizes administrative workload for fleet managers.
-  Data Driven Insights: Provides analytics on tickets, violations, and driver behavior.
-  Cost Savings: Supports scalability, reduces administrative labor, and potential legal issues.
-  <img width="1898" height="538" alt="image" src="https://github.com/user-attachments/assets/bf9500f6-0877-4af7-9f83-a08cc505e2bc" />
+AVVA processes traffic ticket images, extracts critical violation details, and automatically identifies the responsible driver by cross-referencing fleet, ride activity, and employee records. This enables faster resolution, fewer errors, and better operational visibility for fleet managers.
+
+🔍 Core Workflow
+1. Ticket Extraction
+
+AVVA ingests images of traffic tickets and uses AI-powered document processing to extract key data fields, including:
+
+license_plate
+
+event_date
+
+event_time
+
+ticket_number
+
+violation
+
+fine_penalties
+
+location_of_event
+
+2. Driver Identification & Validation
+
+Using the extracted license plate, date, and time of the violation, AVVA:
+
+Queries the Uber trip database to identify the driver assigned to the vehicle at the time of the event
+
+Cross-references the employee database to:
+
+Retrieve driver contact information
+
+Validate employment status (active vs. terminated)
+
+Confirms accurate driver attribution before downstream actions are taken
+
+📊 Business Benefits
+✅ Compliance & Risk Reduction
+
+Prevents missed violations and late fines
+
+Ensures accurate driver attribution
+
+Improves audit readiness
+
+⚙️ Operational Efficiency
+
+Eliminates manual ticket processing
+
+Reduces repetitive administrative tasks
+
+Speeds up ticket resolution workflows
+
+📈 Data-Driven Insights
+
+Analytics on ticket volume and violation trends
+
+Driver behavior monitoring
+
+Location-based violation patterns
+
+💰 Cost Savings
+
+Scales without proportional staffing increases
+
+Reduces administrative labor
+
+Minimizes legal and compliance-related costs
+
+🧠 Why AVVA?
+
+AVVA bridges the gap between unstructured ticket data and fleet operational systems, enabling automated, reliable, and scalable traffic ticket management—purpose-built for modern fleet operations.
