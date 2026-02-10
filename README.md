@@ -1,4 +1,5 @@
-#AVVA is an AI powered Agent/tool designed to streamline traffic ticket management for fleet vehicles.<img width="921" height="123" alt="image" src="https://github.com/user-attachments/assets/ead9e1f9-efe2-4095-b59a-15b20e2bad3b" />
+#AVVA is an AI powered Agent/tool designed to streamline traffic ticket management for fleet vehicles.
+<img width="921" height="123" alt="image" src="https://github.com/user-attachments/assets/ead9e1f9-efe2-4095-b59a-15b20e2bad3b" />
 
 Its workflow includes:
   Ticket Extraction – AVVA processes images of traffic tickets and extracts key information, including:
