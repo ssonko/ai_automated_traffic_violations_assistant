@@ -1,4 +1,4 @@
-#AVVA is an AI powered Agent/tool designed to streamline traffic ticket management for fleet vehicles.width="921" height="123" alt="image" src="https://github.com/user-attachments/assets/ead9e1f9-efe2-4095-b59a-15b20e2bad3b" />
+#AVVA is an AI powered Agent/tool designed to streamline traffic ticket management for fleet vehicles. <img width="921" height="123" alt="image" src="https://github.com/user-attachments/assets/ead9e1f9-efe2-4095-b59a-15b20e2bad3b" />
 
 Its workflow includes:
   Ticket Extraction – AVVA processes images of traffic tickets and extracts key information, including:
@@ -10,7 +10,7 @@ Its workflow includes:
   event_time
   location_of_event
 
-#Driver Identification & Validation<img 
+#Driver Identification & Validation
   Using the extracted license plate, time and date of event, AVVA checks the Uber database to identify the driver of the vehicle at the time of the violation. 
   It then cross references the employee database to retrieve the driver’s contact information and checks whether the driver is currently active (not terminated).
   <img width="2622" height="180" alt="image" src="https://github.com/user-attachments/assets/909ad1b9-7540-4369-a191-9b947486c5c1" />
