@@ -7,7 +7,6 @@
   fine_penalties
   event_time
   location_of_event
-  <img width="2331" height="538" alt="image" src="https://github.com/user-attachments/assets/f5090f03-e86a-42a3-a0ef-4c2cfe8ec58a" />
 
 #Driver Identification & Validation<img width="921" height="123" alt="image" src="https://github.com/user-attachments/assets/ead9e1f9-efe2-4095-b59a-15b20e2bad3b" />
   Using the extracted license plate, time and date of event, AVVA checks the Uber database to identify the driver of the vehicle at the time of the violation. 
