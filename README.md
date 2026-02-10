@@ -13,7 +13,9 @@ Its workflow includes:
 
 #Driver Identification & Validation
   Using the extracted license plate, time and date of event, AVVA checks the Uber database to identify the driver of the vehicle at the time of the violation. 
+  
   It then cross references the employee database to retrieve the driver’s contact information and checks whether the driver is currently active (not terminated).
+  
   Using the extracted license plate, time and date of event, AVVA checks the Uber database to identify the driver of the vehicle at the time of the violation. 
   It then cross references the employee database to retrieve the driver’s contact information and checks whether the driver is currently active (not terminated).
 
